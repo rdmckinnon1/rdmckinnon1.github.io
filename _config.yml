@@ -15,7 +15,7 @@ theme:
      <p>Helping Others - But proununced like you are from South Boston</p>
   header_text_feature_image:
   footer_text: >
-   Made with <a href="http://jekyllrb.com">Jekyll</a> on a <i class="fa fa-battery-quarter" aria-hidden="true"></i>
+   Made with <a href="http://jekyllrb.com">Jekyll</a> on a <i class="fa fa-battery-empty" aria-hidden="true"></i>
 
   # Icons
   rss: false
