@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://helpingotters.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -19,9 +19,9 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  facebook:
-  instagram:
+  email_address: "ryan@ryanmckinnon.com"
+  facebook: "rdmckinnon"
+  instagram: "ryanmckinnon"
   twitter: "twitter"
   youtube:
 
